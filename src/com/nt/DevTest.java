@@ -7,4 +7,7 @@ public class DevTest {
 	void m2() {
 		System.out.println("From m2()");
 	}
+	void m4() {
+		System.out.println("From m4()");
+	}
 }
