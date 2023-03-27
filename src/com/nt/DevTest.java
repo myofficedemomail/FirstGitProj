@@ -10,4 +10,7 @@ public class DevTest {
 	void m4() {
 		System.out.println("From m4()");
 	}
+	void m3() {
+		System.out.println("From m3() for stashes");
+	}
 }
